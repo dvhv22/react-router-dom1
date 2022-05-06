@@ -1,0 +1,24 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+ol li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    /* background: rgb(116, 87, 87); */
+    font-size: 15px;
+    /* transition: 0.2s; */
+    border-bottom: solid #fff;
+    height: 20px;
+    color: rgb(95, 226, 43);
+
+
+
+}
+
+button {
+    margin: 0px 2px;
+    color: blue;
+    float: right;
+}
